@@ -1,6 +1,6 @@
 const HomePage = () => {
     return (
-        <div>
+        <div className="bg-slate-700 text-9xl">
             Hello
         </div>
     )
